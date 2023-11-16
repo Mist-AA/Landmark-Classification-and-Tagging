@@ -40,4 +40,4 @@ The app.ipynb notebook contains the development of a simple app using one of the
 This project showcases the end-to-end process of building a landmark classification system, from data preprocessing to model training and deployment in an app.
 
 ### Source
-This project is the 3rd project of the Machine Learning Fundamentals Nanodegree as part of the advanced phase of the AWS AI & ML scholarship program of 2023.
+This project was the 3rd project of the Machine Learning Fundamentals Nanodegree on Udacity as part of the advanced phase of the AWS AI & ML scholarship program of 2023.
